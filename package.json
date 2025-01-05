@@ -1,0 +1,17 @@
+{
+  "name": "lambda-telegram-notification",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "description": "Sample Node app running on AWS Lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "web.kod3r@gmail.com",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "telegraf": "^4.16.3"
+  }
+}
